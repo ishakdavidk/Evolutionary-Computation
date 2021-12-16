@@ -1,2 +1,2 @@
 # Evolutionary-Computation
-Dongseo University
+Dongseo University - Prof. 강대기
